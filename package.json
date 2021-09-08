@@ -1,0 +1,19 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "start": "node index.js",
+    "node": "10.16.3"
+  },
+  "scripts": {
+     "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.1",
+    "express": "^4.17.1"
+  }
+}
